@@ -11,7 +11,7 @@
 ## 🚀 Quick Start
 
 ### **Windows Users (Recommended)**
-1. Download the latest executables from **[Releases](https://github.com/yourusername/IPTV-Companion/releases)**
+1. Download the latest executables from **[Releases](https://github.com/kidpoleon/iptv-companion/releases)**
 2. Run `M3U-Companion.exe` or `Xtream-Companion.exe` - **No installation required!**
 
 ### **Linux Users**
@@ -232,14 +232,16 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **FFmpeg & MPV** - Reliable media playback engines
 - **Python Community** - Outstanding ecosystem and libraries
 - **Contributors** - Testing, feedback, and improvements
+- **u/drnigelchanning**
+- **u/erricmi**
 
 ---
 
 ## 📞 Support
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/IPTV-Companion/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/IPTV-Companion/discussions)
-- **Wiki:** [Documentation](https://github.com/yourusername/IPTV-Companion/wiki)
+- **Issues:** [GitHub Issues](https://github.com/kidpoleon/iptv-companion/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/kidpoleon/iptv-companion/discussions)
+- **Wiki:** [Documentation](https://github.com/kidpoleon/iptv-companion/wiki)
 
 ---
 
