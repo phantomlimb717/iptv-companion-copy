@@ -1,0 +1,2 @@
+#http://domain:port/get.php?username=XYZ123&password=XYZ123&type=m3u_plus
+#http://domain:port/get.php?username=XYZ123&password=XYZ123&type=m3u_plus
